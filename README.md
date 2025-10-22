@@ -1,2 +1,1 @@
-# Range_and_Similarity_Queries_on_Text_Collections
-Implementation of multidimensional index structures (k-d trees, quadtrees, range trees, and R-trees) in Python.
+Implementation of multidimensional index structures (k-d trees, quadtrees, range trees, and R-trees) in Python to support search over a collection of computer scientists by name and number of awards, combined with text-similarity queries on the education field using Locality-Sensitive Hashing (LSH). The project includes a comparison of the indexing techniques and an empirical evaluation of their performance for combined range-and-similarity queries.
